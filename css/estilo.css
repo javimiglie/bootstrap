@@ -6,6 +6,7 @@
 
 body {
     background-image: url(../Media/fotos/Fondo.jpg);
+    background-size: cover;
 }
 
 h1 {
