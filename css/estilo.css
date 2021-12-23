@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../Media/fotos/Fondo.jpg);
+}
+
+h1 {
+    letter-spacing: 5px;
+}
+
+p {
+    font-family: 'Play', sans-serif;
+    color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1.9;
+}
+
+.colorCeleste {
+    color: aqua;
+}
+
+#carouselExampleIndicators {
+    margin: auto;
+}
+
+.bgColor {
+    background-color: transparent;
+}
+
+.formulario {
+    width: 90%;
+    margin: auto;
+    color: yellow;
+}
+
+footer p {
+    color: thistle;
+    text-align: center;
+}
